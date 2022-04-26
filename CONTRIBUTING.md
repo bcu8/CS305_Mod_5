@@ -12,9 +12,9 @@
 2. ~~initializeBoard function~~
 3. ~~Create Onclick event listeners for each square~~
 4. ~~win function~~
-5. toggle function
-6. Create light class
-7. Create Dark class
+5. ~~toggle function~~
+6. ~~Create light class~~
+7. ~~Create Dark class~~
 8. Center content
 
 ## Team Contributions
@@ -22,3 +22,4 @@
 ### After completing a task put your name and the number beside the completed task below.
 Brandon Udall: 1, 2
 Dayra Quinonez 2, 4
+Ashley Davidge: 5, 6, 7
