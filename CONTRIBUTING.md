@@ -15,7 +15,7 @@
 ~~2. initializeBoard function~~
 3. Create Onclick event listeners for each square
 4. win function
-~~5.toggle function ~~
+~~5. toggle function ~~
 
 ### style.css
 6. Create light class
