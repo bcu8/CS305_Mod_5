@@ -8,16 +8,11 @@
 
 ## Team To-Do List
 
-### index.html
-~~1. Create working index.html~~
-
-### script.js
-~~2. initializeBoard function 
+~~1. Create working index.html
+2. initializeBoard function 
 3. Create Onclick event listeners for each square
 4. win function
 5. toggle function~~
-
-### style.css
 6. Create light class
 7. Create Dark class
 8. Center content
