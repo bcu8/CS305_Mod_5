@@ -10,8 +10,8 @@
 
 1. ~~Create working index.html~~
 2. ~~initializeBoard function~~
-3. Create Onclick event listeners for each square
-4. win function
+3. ~~Create Onclick event listeners for each square~~
+4. ~~win function~~
 5. toggle function
 6. Create light class
 7. Create Dark class
@@ -21,3 +21,4 @@
 
 ### After completing a task put your name and the number beside the completed task below.
 Brandon Udall: 1, 2
+Dayra Quinonez 2, 4
