@@ -1,6 +1,6 @@
 # CS305_Mod_5
 
-##Overview
+##Overview\n
 The purpose of this project is to create a webpage containing a working version of the Lights out game. Three files are needed, index.html, style.css and script.js. 
 
 ##Specifications
