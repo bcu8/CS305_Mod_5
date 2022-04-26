@@ -6,5 +6,5 @@ The purpose of this project is to create a webpage containing a working version 
 
 ## Project Goal
 
-After the project is completed, the result should be playable at http://mommyspanksme.online/cs212/homework/final/
+After the project is completed, the result should be playable [here](http://mommyspanksme.online/cs212/homework/final/)
 
