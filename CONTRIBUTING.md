@@ -8,7 +8,7 @@
 
 ## Team To-Do List
 
-~~1. Create working index.html
+1. ~~Create working index.html
 2. initializeBoard function 
 3. Create Onclick event listeners for each square
 4. win function
