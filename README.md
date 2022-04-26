@@ -8,3 +8,7 @@ The purpose of this project is to create a webpage containing a working version 
 
 After the project is completed, the result should be playable [here](http://mommyspanksme.online/cs212/homework/final/)
 
+## License
+
+This project is licensed under the MIT liscense making it available for personal modification or use.
+
