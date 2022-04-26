@@ -13,8 +13,8 @@
 
 ### script.js
 ~~2. initializeBoard function~~ 
-3. Create Onclick event listeners for each square
-4. win function
+~~3. Create Onclick event listeners for each square~
+~4. win function~~
 ~~5. toggle function ~~
 
 ### style.css
@@ -25,4 +25,4 @@
 ## Team Contributions
 
 ### After completing a task put your name and the number beside the completed task below.
-Brandon Udall: 1, 2, 5
+Brandon Udall: 1, 2, 5, 3, 4
